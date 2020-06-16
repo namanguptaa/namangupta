@@ -60,6 +60,12 @@ others under progress (Yes! i started little late )
 # Support or Contact
 As i promised 
 **Social Media**
+
 **LinkedIn**: [https://www.linkedin.com/in/namanguptaa] (linkedIn) (i'm quite active here )
+
 **Dribble**: [https://dribbble.com/namanguptaa] (Dribble)
+
 **Behance**: [https://www.behance.net/namanguptaa/] (Behance)
+
+**Email**
+Gmail: namanguptaa04@gmail.com
