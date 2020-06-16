@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+## Welcome to Naman-Gupta's Workplace
 
-You can use the [editor on GitHub](https://github.com/namanguptaa/namangupta/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Android Developer
+## Public Speaker
+### Opportunist (I may have adding this at first, yet you have to bear with it)
+The thing that **influences** me is the _technological advancements_. The improvisations to the modern life through the _computational thinking_ of the people. 
+I believe in smart work but i often find **procastination** as my companion. I wonder, how **my work is even on time** :D
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+'I may not update this very often', but if you find any doubts regarding my absence don't afraid to **_reach out to my social links(I've attached them at the last)**_
 
-### Markdown
+I love to 
+- Dance
+- Play Basket Ball
+- Read fiction but society knows me for non-fiction
+- Write, go check my insta page https://www.instagram.com/namanguptastories/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm good at?
+1. Development
+2. Stretigic Thinking
+3. Business Prospects
+4. Testing
+5. Documentation
+6. ya ya learning (I can learn stuff just by watching you do it, neat right?)
 
-```markdown
-Syntax highlighted code block
+Interpersonal Ask from my achievements
+•	Finalist in IMA National Level Case Study Competition 2019 at Novotel Hotel, Pune.
+•	Finalist in Smart India Hackathon 2020. 
+•	Certified Google Explore ML level 2 Developer.
+•	Accomplished learning & Implementation of Version Control (Git/GitHub) from Udacity in May 2020.
+•	Attendee, Virtual Class on Cross Culture Communications by Doba Business School, Slovenia in 2019.
+•	2nd Position in Case Study Competition 2020 at Punjab Engineering College in January 2020. 
+•	Winner of Case Study Competition 2020 by E-Cell at CGC Landran.
+•	2nd position in B-Wizard in Parivartan 2k20 at CGC Landran in January 2020.
+•	2nd runner up in World IOT Hackathon organized at Chandigarh University in 2019
+and my coordinational skills
+•	Serving as President of CGC Literary Club in which various literary events and sessions are being hosted by me as a team leader.
+•	Core Team Member of Google Developers Club, Chandigarh
+•	Hosted The Great Indian Book Tour 2020 and Parivartan 2020 as the Chief Organizer.
+•	Counted as one of 10 members of CGC Council in which most of the college events are coordinated as core committee from last 2 years.
+•	Always keen to participate in diverse course competitions like the business and electronics and won most of them.
+( refer to my achievements one more time )
 
-# Header 1
-## Header 2
-### Header 3
+Projects ?
 
-- Bulleted
-- List
+1.Project Name: SEWAGE CARE
+Environment	:	ANDROID STUDIO, Web Browsers (Google Chrome, Firefox)
+Languages/Database	:	Core Java/ MySQL, React, HTML, CSS, XML
 
-1. Numbered
-2. List
+Project Description
+:	With the increasing problems of sewage maintenance in the various regions of the world we came up with the perfect solution to solve sewage blockage in time. We made an app which would help the people to file the complaint that would directly redirect it to the local municipal authorities. Saves time, Money both.
 
-**Bold** and _Italic_ and `Code` text
+Team Size		4 (Idea Proposer & Designer, Web Developer, Android Developer & DBA
+Team Role	:	Idea Proposer, Team leader and Product Designer
+
+
+others under progress (Yes! i started little late )
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/namanguptaa/namangupta/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Support or Contact
+As i promised 
+**Social Media**
+LinkedIn: [https://www.linkedin.com/in/namanguptaa] (linkedIn) (i'm quite active here )
+Dribble: [https://dribbble.com/namanguptaa] (Dribble)
+Behance: [https://www.behance.net/namanguptaa/] (Behance)
