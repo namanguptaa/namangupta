@@ -22,27 +22,27 @@ I'm good at?
 5. Documentation
 6. ya ya learning (I can learn stuff just by watching you do it, neat right?)
 
-Interpersonal Ask from my achievements
-•	Finalist in IMA National Level Case Study Competition 2019 at Novotel Hotel, Pune.
-•	Finalist in Smart India Hackathon 2020. 
-•	Certified Google Explore ML level 2 Developer.
-•	Accomplished learning & Implementation of Version Control (Git/GitHub) from Udacity in May 2020.
-•	Attendee, Virtual Class on Cross Culture Communications by Doba Business School, Slovenia in 2019.
-•	2nd Position in Case Study Competition 2020 at Punjab Engineering College in January 2020. 
-•	Winner of Case Study Competition 2020 by E-Cell at CGC Landran.
-•	2nd position in B-Wizard in Parivartan 2k20 at CGC Landran in January 2020.
-•	2nd runner up in World IOT Hackathon organized at Chandigarh University in 2019
-and my coordinational skills
-•	Serving as President of CGC Literary Club in which various literary events and sessions are being hosted by me as a team leader.
-•	Core Team Member of Google Developers Club, Chandigarh
-•	Hosted The Great Indian Book Tour 2020 and Parivartan 2020 as the Chief Organizer.
-•	Counted as one of 10 members of CGC Council in which most of the college events are coordinated as core committee from last 2 years.
-•	Always keen to participate in diverse course competitions like the business and electronics and won most of them.
+## Interpersonal Ask from my achievements
+-	Finalist in IMA National Level Case Study Competition 2019 at Novotel Hotel, Pune.
+-	Finalist in Smart India Hackathon 2020. 
+-	Certified Google Explore ML level 2 Developer.
+-	Accomplished learning & Implementation of Version Control (Git/GitHub) from Udacity in May 2020.
+-	Attendee, Virtual Class on Cross Culture Communications by Doba Business School, Slovenia in 2019.
+-	2nd Position in Case Study Competition 2020 at Punjab Engineering College in January 2020. 
+-	Winner of Case Study Competition 2020 by E-Cell at CGC Landran.
+-	2nd position in B-Wizard in Parivartan 2k20 at CGC Landran in January 2020.
+-	2nd runner up in World IOT Hackathon organized at Chandigarh University in 2019
+ ## and my Coordinational Skills
+-	Serving as President of CGC Literary Club in which various literary events and sessions are being hosted by me as a team leader.
+-	Core Team Member of Google Developers Club, Chandigarh
+-	Hosted The Great Indian Book Tour 2020 and Parivartan 2020 as the Chief Organizer.
+-	Counted as one of 10 members of CGC Council in which most of the college events are coordinated as core committee from last 2 years.
+-	Always keen to participate in diverse course competitions like the business and electronics and won most of them.
 ( refer to my achievements one more time )
 
-Projects ?
+## Projects ?
 
-1.Project Name: SEWAGE CARE
+1.Project Name: **SEWAGE CARE**
 Environment	:	ANDROID STUDIO, Web Browsers (Google Chrome, Firefox)
 Languages/Database	:	Core Java/ MySQL, React, HTML, CSS, XML
 
@@ -60,6 +60,6 @@ others under progress (Yes! i started little late )
 # Support or Contact
 As i promised 
 **Social Media**
-LinkedIn: [https://www.linkedin.com/in/namanguptaa] (linkedIn) (i'm quite active here )
-Dribble: [https://dribbble.com/namanguptaa] (Dribble)
-Behance: [https://www.behance.net/namanguptaa/] (Behance)
+**LinkedIn**: [https://www.linkedin.com/in/namanguptaa] (linkedIn) (i'm quite active here )
+**Dribble**: [https://dribbble.com/namanguptaa] (Dribble)
+**Behance**: [https://www.behance.net/namanguptaa/] (Behance)
